@@ -1,6 +1,6 @@
 # M802C · Amplifiers
 
-Ward-Beck Systems M802C, 1996|29. Wiki page: [M802C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M802C.html)
+Ward-Beck Systems M802C, 1996|29. Wiki page: [M802C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M802C/)
 
 | Folder | What is in it | Files |
 |---|---|---|
